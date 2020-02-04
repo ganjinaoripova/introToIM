@@ -9,5 +9,5 @@ Here is my image
 I almost didn’t have any problems with the first idea, however with the second the problem was that I had a cover on my laptop so whenever I closed my laptop, the cover would stop wires from touching each other, so then I decided to move wires and adding a bit of more copper tapes on top, which eventually helped and the switch worked. 
 
 
-![Here](https://youtu.be/Ed8VjfYeGWE)
-![Here](https://youtu.be/HNtE616FWMY)are the videos of my wonderful projects
+[Here](https://youtu.be/Ed8VjfYeGWE)
+[Here](https://youtu.be/HNtE616FWMY)are the videos of my wonderful projects
