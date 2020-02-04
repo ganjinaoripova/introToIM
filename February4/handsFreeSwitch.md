@@ -4,6 +4,6 @@ For this assignment I decided to make a switch where you turn on LED’s while d
 After finishing with the first one, I had an idea of using my laptop as a switch. For this one I only used one LED and two wires, one of the wires I connected in the top of my laptop another on the bottom, and whenever I close my laptop, LED’s light up. 
 
 Here is my image
-![](IMG_1742.jpg)
+![](handsfree switch.png)
 
 I almost didn’t have have any problems with the first idea, however with the second the problem was that I had a cover on my laptop so whenever I closed my laptop, the cover would stop wires from touching each other, so then I decided to move wires and adding a bit of more copper tapes on top, which eventually helped and the switch worked. 
