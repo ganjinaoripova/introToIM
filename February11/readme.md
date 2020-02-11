@@ -9,6 +9,6 @@ Here is the schematic of my circuit
 [Here](https://youtu.be/wN_avcV4_wk) is the second video of my wonderful project 
 
 Here is my code 
-![](code.png)
+![](code1.png)
 
 I guess the challenging part was writing a code in Arduino since at the beginning I was very confused by all the things I was doing, however, after going one by one and googling the meaning of each code, I kind of figured out the logic behind it. 
