@@ -8,4 +8,7 @@ Here is the schematic of my circuit
 [Here](https://youtu.be/47wNioMuzHE) is the first video of my wonderful project
 [Here](https://youtu.be/47wNioMuzHE) is the second video of my wonderful project 
 
+Here is my code 
+![](code.png)
+
 I guess the challenging part was writing a code in Arduino since at the beginning I was very confused by all the things I was doing, however, after going one by one and googling the meaning of each code, I kind of figured out the logic behind it. 
