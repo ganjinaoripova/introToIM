@@ -6,7 +6,10 @@ The LED is connected to analog output and by turning the potentiometer you can c
 Here is the schematic of my circuit
 ![](circuit.png)
 
+Here are the photos of the circuit 
+![](1.png)
+![](2.png)
 
-[Here](https://youtu.be/47wNioMuzHE) is the first video of my wonderful project
+[Here](https://youtu.be/mP68UGV3s5g) is the first video of my wonderful project
 
 I had a lot of with this projects, but at the same time it was challenging since I am new to code. 
