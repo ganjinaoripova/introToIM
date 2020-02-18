@@ -12,4 +12,4 @@ Here are the photos of the circuit
 
 [Here](https://youtu.be/mP68UGV3s5g) is the first video of my wonderful project
 
-I had a lot of fun with this projects, but at the same time it was coding part was very challenging and nerve wrecking, since I am new to code. 
+I had a lot of fun with this projects, but at the same time coding part was very challenging and nerve wrecking, since I am new to code. 
