@@ -16,4 +16,4 @@ Here are the photos of the circuit
 
 [Here](https://youtu.be/mP68UGV3s5g) is the first video of my wonderful project
 
-I had a lot of fun with this projects, but at the same time coding part was very challenging and nerve wrecking, since I am new to code. 
+In conclusion, though some coding challenges arose during the creation process, I believe I am getting more comfortable with using Arduino and with further practice, my skills will only continue to improve.
