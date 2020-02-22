@@ -8,7 +8,7 @@ At first I wanted to use a teddy bear and make two LED's as its eye and attach p
 I also did some soldering, since from the beginning the idea was putting everything inside of the toy, and the wires that we use were too short, so I decided to solder some longer wires, in order to be able to put my LED's, potentiometer and photoresistor inside of the toy. After finishing soldering I put everything inside of the toy, and took a video of how it works, which you can find below. 
 
 Here is the schematic of my circuit
-![](drum-schematic.png)
+![](circuit.png)
 
 Here are the photos of the circuit 
 ![](instrument-schematic.png)
