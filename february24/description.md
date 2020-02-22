@@ -6,9 +6,12 @@ For this project I decided to do make two different instruments.
 
 I used one ultrasonic sensor to measure the distance, one piezo buzzer to produce a sound and one force sinsitive resistor to detect pressing, and also one 10K resistor, around 8-10 jumper wires, solderless breadboard and arduino. The way the instrument works - when you press on the force sensitive resistor, the arduino activates the ultrasonic sensor, and depending to its measure, the piezo will play different notes. To play the instrument you can use one hand to press the force sensitive resistor and hold the other in front of the ultrasonic sensor, to play different notes. 
 
-Here is the photo of the circuit
+Here is the photo of the schematic 
 ![](instrument-schematic.png)
 
+Here are the photos of the circuit 
+![](circuit-1.png)
+![](circuit-2.png)
 
 [Here](https://youtu.be/KYtkc8wLsd0) is the video of my wonderful project
 
