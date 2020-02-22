@@ -11,7 +11,9 @@ Here is the schematic of my circuit
 ![](circuit.png)
 
 Here are the photos of the circuit 
-![](instrument-schematic.png)
+![](1.png)
+![](2.png)
+
 
 [Here](https://youtu.be/mP68UGV3s5g) is the first video of my wonderful project
 
