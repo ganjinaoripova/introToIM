@@ -10,7 +10,7 @@ Here is the photo of the circuit
 ![](instrument-schematic.png)
 
 
-[Here](https://youtu.be/mP68UGV3s5g) is the video of my wonderful project
+[Here](https://youtu.be/KYtkc8wLsd0) is the video of my wonderful project
 
 2) Arduino Drum:
 
@@ -19,4 +19,4 @@ I used one servo motor, around 5 jumper wires, solderless breadboard, arduino, d
 Here is the photo of the circuit 
 ![](drum-schematic.png)
 
-[Here](https://youtu.be/mP68UGV3s5g) is the video of my wonderful project
+[Here](https://youtu.be/EYOMygJfLvY) is the video of my wonderful project
