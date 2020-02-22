@@ -1,6 +1,6 @@
 ***Musical Instrument***
 
-For this project I decided to do make two different instruments. 
+For this project I decided to make two different instruments. 
 
 1) Arduino instrument that makes different sounds - from note C to B: 
 
