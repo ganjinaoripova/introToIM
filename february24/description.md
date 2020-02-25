@@ -24,4 +24,4 @@ Here is the photo of the circuit
 
 [Here](https://youtu.be/EYOMygJfLvY) is the video of my wonderful project
 
-The main challenge I had while working on this project was deciding the usage of servo motor, since from the beginning I knew what to do with piezo but not servo motor. But then after talking with professor, I decided to use the drum instrument that we found in IM Lab. 
+The main challenge I had while working on this project was deciding the usage of servo motor, since from the beginning I knew what to do with piezo but not servo motor. But then after talking with professor, I decided to use the drum instrument that we found in IM Lab. Overall, I really liked working on this project and make some interesting sounds. 
