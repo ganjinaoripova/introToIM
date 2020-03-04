@@ -1,4 +1,4 @@
-*** Car Parking System***
+***Car Parking System***
 
 For my midterm prject I decided to use distance measuring sensor, servo motor, LED's and photoresistor. It was kind of challenging to come up with the projectt where I can use all the I/O, however after brainstorming I decided to use a cardboard and make a car parking system with a road and traffic light on the side, and decorate it with a duct tape. On the right side, I made a car barrier using distance measuring sensor and servo motor, and also used two LED's and two photoresistors to control the light - LED's stay on and when the car comes in and parks the light automatically turns off. On the left side of the cardboard I made a road using duct tape and traffic light using LED's. 
 
