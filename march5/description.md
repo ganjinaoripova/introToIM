@@ -36,4 +36,4 @@ Here are the photos of the circuit
 
 At the beginning I decided to write the code in three different files; for traffic light, car barrier and LED's that are being controlled with photoresistors. And then after making sure that each of my code works fine, I decided to put all of them in one file, which was very challenging. Afterwards I decided to check everything one by one, with writing short codes and checking them, which helped a lot. 
 Designing the project also took a lot of time - hot glueing parts, making ... to attach LED's and overall designing the board. 
-I am actually satisfied with the project I have made for such a short period of time. After talking with my siblings, my brother asked me to give him my project so he could play with it, which I am very happy of. 
+I am actually very happy with the project I have made for such a short period of time. 
