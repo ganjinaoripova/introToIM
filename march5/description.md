@@ -24,8 +24,10 @@ In order to make LED's controlled with photoresistor I used:
 - wires
 - a breadboard
 
-Here are the photos of the circuit 
+Here is the photo of my project
 ![](image1.png)
+
+Here are the photos of the circuit 
 ![](image2.png)
 ![](image3.png)
 ![](image4.png)
