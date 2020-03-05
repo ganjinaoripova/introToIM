@@ -27,6 +27,9 @@ In order to make LED's controlled with photoresistor I used:
 Here is the photo of my project
 ![](image1.png)
 
+Here is the schematic of the circuit 
+![](schematic.png)
+
 Here are the photos of the circuit 
 ![](image2.png)
 ![](image3.png)
