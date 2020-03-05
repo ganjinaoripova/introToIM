@@ -1,6 +1,8 @@
 ***Car Parking System***
 
-For my midterm project I decided to use: distance measuring sensor, servo motor, LED's and photoresistor. It was somewhat challenging to come up with the project where I could use all the I/O that we have learned so far, however, after brainstorming I decided to make a car parking system with road and traffic light on the side. I used a cardboard, and decorated it with a duct tape. On the right side, I made a car barrier using distance measuring sensor and servo motor. I also made two parking spaces and used two LED's and two photoresistors to control the light-keeping the LED on and turning off automatically when the car arrives in. On the left side of the cardboard I made a road and crosswalk using duct tape and also put traffic light using LED's. 
+For my midterm project I decided to use: distance measuring sensor, servo motor, LED's and photoresistor. It was somewhat challenging to come up with the project where I could use all the I/O that we have learned so far, however, after brainstorming I decided to make a car parking system with road and traffic light on the side. 
+
+I used a cardboard, and decorated it with a duct tape. On the right side, I made a car barrier using distance measuring sensor and servo motor. I also made two parking spaces and used two LED's and two photoresistors to control the light-keeping the LED on and turning off automatically when the car arrives in. On the left side of the cardboard I made a road and crosswalk using duct tape and also put traffic light using LED's. 
 
 In order to build an Arduino Traffic Light Controller, I used:
 - 3 x 330k resistor
