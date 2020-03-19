@@ -7,7 +7,6 @@ I have never used processing before and it was very challenging at first, since 
 Although the process was very time consuming I really enjoyed working on it, since it really helped me to learn making different shapes and how to put things together. I am very pleased with the end result and I think that I have somewhat accomplished the goal of making a portrait of my friend. 
 
 
-Here is the image of the self-portrait 
 ![](portrait.png)
 
 
