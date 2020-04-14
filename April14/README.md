@@ -7,12 +7,14 @@ Here is the poem I chose:
 "лучше жалеть о содеянном чем об упущенном шансе,так как никто не знает что произойдет с тобой завтра"
  ---Каренина (name of the author)
  
-  
-It basically means that it’s better to regret the deed than the missed chance, since no one knows what will happen to you tomorrow. 
+The meaning of this poem is bacially that it’s better to regret the deed than the missed chance, since no one knows what will happen to you tomorrow. 
 
+ Before:
  
  ![](photo1.png)
   
+ After:
+ 
  ![](photo2.png)
  
  
