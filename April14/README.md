@@ -3,8 +3,10 @@
 For this assignment we were supposed to make either data visualization or generative text. At the beginnign I tried to make data vizualization of meteorite landing, however it didnt work as I was expecting so then I tried to make generative text. I chose a Russian poem, and decided to randomly generate words so it would completely change the meaning of the poem to something different. 
 
 Here is the poem I chose: 
+
 "лучше жалеть о содеянном чем об упущенном шансе,
 так как никто не знает что произойдет с тобой завтра"
+
  ---Каренина (name of the author)
  
 It basically means that it’s better to regret the deed than the missed chance, since no one knows what will happen to you tomorrow. 
