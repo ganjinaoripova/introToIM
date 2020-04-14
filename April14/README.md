@@ -4,9 +4,7 @@ For this assignment we were supposed to make either data visualization or genera
 
 Here is the poem I chose: 
 
-"лучше жалеть о содеянном чем об упущенном шансе,
-так как никто не знает что произойдет с тобой завтра"
-
+"лучше жалеть о содеянном чем об упущенном шансе,так как никто не знает что произойдет с тобой завтра"
  ---Каренина (name of the author)
  
 It basically means that it’s better to regret the deed than the missed chance, since no one knows what will happen to you tomorrow. 
