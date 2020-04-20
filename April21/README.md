@@ -8,7 +8,6 @@ I tried adding circles and it ended up pretty interesting
 
 [Here](https://youtu.be/3Bmx-XvgKmE) is the video with cirlces
 
-Image 1 
 
  ![](ex2.png)
 
@@ -16,7 +15,6 @@ I made three different versions and the last is without any circles, which I rea
 
 [Here](https://youtu.be/dHmKpCITS4Y) is the video without cirlces
 
-Image 2 
 
  ![](ex1.png)
  
