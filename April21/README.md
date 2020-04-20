@@ -12,4 +12,10 @@ I made three different versions and the last is without any circles, which I rea
 
 [Here](https://youtu.be/dHmKpCITS4Y) is the video without cirlces
 
+Images 
+
+ ![](ex1.png)
+ 
+ ![](ex2.png)
+
 
