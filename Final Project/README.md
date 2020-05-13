@@ -8,7 +8,7 @@ For our final project, we had to create anything on Processing. Since we could d
 ![](corona2.png)
 ![](corona3.png)
 
-This is the idea that I had at the beginning, however when I started coding, I changed the idea a bit. Instead of spreading the toilet paper and saving people, I decided to make a similar game to shooting game. 
+This is the idea that I had at the beginning, however when I started coding, I changed the idea a bit. Instead of spreading the toilet paper and saving people, I decided to make something similar to shooting game. 
 
 ### [Link to Video]
 
