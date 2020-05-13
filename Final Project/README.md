@@ -1,6 +1,6 @@
 ***"CORONA" - shooting game***
 
-For our final project, we had to create anything on Processing. Since we could do anything, I thought of making something related to Covid-19. I decided to make a game in which I wanted to show how important and dangerous this virus is, however, at the same time make it interesting and fun. 
+For our final project, we had to create anything on Processing. At the beginning it was hard to choose one thing since the project was free to choose. After brainstorming different ideas, I thought of making a game that would somehow be related to Covid-19. By making a corona based game, I wanted to show how important and dangerous this virus is, however, at the same time make the game interesting and fun to play. The first thing that I did was make some sketches so I would have the general idea on what I am going to make.
 
 ### Initial idea
 
