@@ -29,8 +29,9 @@ This is the idea that I had at the beginning, however when I started coding, I c
  
  
 ***Challenging  Parts:***
-- Writing a code for GameOver screen, was very time consuming since, it kept showing the GameOver screen only once at the beginning, and when you play the game for the second time, it automatically kept restarting it without even showing the screen.  After the meeting with professor, the issue was resolved.
- - Problems with "lives": whenever enemy shoots the player -> minus one live. I tried so many different ways to solve the issue, but it didnt work, then I found a youtube tutorial, which helped me a lot in resolving the issue.
+- Writing code for the GameOver screen was very time consuming since, it kept showing the GameOver screen only once at the beginning, and when you play the game for the second time, it automatically kept restarting it without even showing the screen. After the meeting with the professor, the issue was resolved.
+- Problems with "lives”: whenever enemy shoots the player -> minus one live. I tried so many different ways to solve the issue, but it didn't work, then I found a youtube tutorial, which helped me a lot in resolving the issue.
+
  
 Although there have been some challenges that have arisen throughout the projects, the end product came very close to what I foresaw for my final project and I am extremely pleased with the overall work I have done in this course of the challenging time. 
  
