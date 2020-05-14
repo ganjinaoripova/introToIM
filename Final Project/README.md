@@ -4,8 +4,8 @@ For our final project, we had to create anything on Processing. At the beginning
 
 ### Initial idea
 
-![](corona1.png)
-![](corona2.png)
+![](sketch1.png)
+![](sketch2.png)
 ![](sketch3.png)
 
 This is the idea that I had at the beginning, however, after starting to code,the concept of the game has shifted a bit. Instead of saving people by spreading toilet papers, I decided to make something similar to a shooting game, where a player shoots the enemy which in this case would be the virus. 
